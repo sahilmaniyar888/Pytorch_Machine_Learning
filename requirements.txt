@@ -3,7 +3,6 @@ pandas
 scikit-learn
 matplotlib
 seaborn
-torch
-seaborn
 scipy
 statsmodels
+torch
